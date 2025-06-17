@@ -6,7 +6,7 @@ Final project for the Building AI course
 
 FeedGuard is an AI-powered browser extension that scans social media content in real-time to flag potential misinformation and manipulative advertising, helping users make more informed decisions online. It would cross validate each post with real events, any published lists and databases, and mark the posts based on likelyhood of misinformation.
 
-![image description](/ChatGPT Image Jun 17, 2025, 11_19_27 AM.png)
+![Illustration of FeedGuard](ChatGPT%20Image%20Jun%2017,%202025,%2011_19_27%20AM.png)
 
 ## Background
 
